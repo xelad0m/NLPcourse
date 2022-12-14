@@ -1,0 +1,62 @@
+# Ignore all
+*
+
+# Except these
+!test
+!.gitignore
+!1.Введение.ipynb
+!2.Векторная модель текста.ipynb
+!3.Базовые нейросетевые методы для текста.ipynb
+!3.Базовые нейросетевые методы для текста(часть2).ipynb
+!4.Языковые модели и генерация текста.ipynb
+!4.Языковые модели и генерация текста(часть2).ipynb
+!4.Языковые модели и генерация текста(часть3).ipynb
+!5.Преобразование последовательностей.ipynb
+!5.Преобразование последовательностей(часть2).ipynb
+!6.Transfer learning, адаптация моделей.ipynb
+!7.Fin.ipynb
+!README.md
+
+!img/
+!img/*
+!stepik-dl-nlp/img/
+!stepik-dl-nlp/img/*
+
+!stepik-dl-nlp/
+!stepik-dl-nlp/task1_20newsgroups.ipynb
+!stepik-dl-nlp/task2_word_embeddings.ipynb
+!stepik-dl-nlp/task3_cnn_postag.ipynb
+!stepik-dl-nlp/task4_RNN_name_generator.ipynb
+!stepik-dl-nlp/task5_text_transformer.ipynb
+!stepik-dl-nlp/task6_recipe_ner.ipynb
+!stepik-dl-nlp/task7_aspect_sentiment_eval.ipynb
+!stepik-dl-nlp/task7.1_aspect_sentiment_eval.ipynb
+!stepik-dl-nlp/task8_generate_stackoverflow_code.ipynb
+!stepik-dl-nlp/task8.1_DE_EN_translate.ipynb
+!stepik-dl-nlp/task9_bert_sentiment_analysis.ipynb
+!stepik-dl-nlp/task9.1_KGBert_sentiment_analysis.ipynb
+!stepik-dl-nlp/task9.2_KGBert_IMDB.ipynb
+!stepik-dl-nlp/task10_bert_squad.ipynb
+
+!stepik-dl-nlp/task11_kaggle/
+!stepik-dl-nlp/task11_kaggle/0. baseline.ipynb
+!stepik-dl-nlp/task11_kaggle/0. bug.ipynb
+!stepik-dl-nlp/task11_kaggle/1. rnn_bpe.ipynb
+!stepik-dl-nlp/task11_kaggle/2. tut6_like_bert_voc6k.ipynb
+!stepik-dl-nlp/task11_kaggle/3. tut6_like_bert_voc84k_beam.ipynb
+!stepik-dl-nlp/task11_kaggle/4. tut6_like_bert_bpe16k_beam.ipynb
+!stepik-dl-nlp/task11_kaggle/5. tut6_like_bert_bpe16k_beam_morelayers.ipynb
+!stepik-dl-nlp/task11_kaggle/6.1 T5_fine-tune.ipynb
+!stepik-dl-nlp/task11_kaggle/6.2 BART_fine-tune.ipynb
+!stepik-dl-nlp/task11_kaggle/6.3 Prophet_fine-tune.ipynb
+!stepik-dl-nlp/task11_kaggle/7. BERT_seq2seq.ipynb
+!stepik-dl-nlp/task11_kaggle/7.1 BERT_seq2seq.ipynb
+!stepik-dl-nlp/task11_kaggle/8. GPT2_fine-tune.ipynb
+
+!Генерация текстов/
+!Генерация текстов/byte-pair-encoding.ipynb
+!Генерация текстов/lyrics.txt
+!Генерация текстов/parser.ipynb
+!Генерация текстов/RNNGenerator.ipynb
+!Генерация текстов/datasets/
+!Генерация текстов/datasets/vysotskiy_all.txt
